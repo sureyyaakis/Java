@@ -1,4 +1,3 @@
-// Sureyya Betul Akis
 // Write a program that converts pounds into kilograms
 // One pound is 0.454 kilograms.
 
