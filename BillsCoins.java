@@ -1,4 +1,3 @@
-// Sureyya Betul Akis
 /* Write an application that prompts for and reads a double value representing a monetary amount. 
  * Then determine the fewest number of each bill and coin needed to represent that amount, starting with the highest. 
 */
