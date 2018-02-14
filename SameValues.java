@@ -1,4 +1,3 @@
-// Sureyya Betul Akis
 /* Write an application to accept an integer number and a double number from the user, 
  * then shows an output of same result after dividing each by 5.
 Example:   inputting: 3 and 3.0    outputting:    0.6 and 0.6 */
