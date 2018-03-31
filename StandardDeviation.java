@@ -10,7 +10,7 @@ public class MeanAndStrdDev
 		double total = 0;
 		double dev = 0;
 		
-		for (int i=0; i<10; i++) //no more than 20 input values.
+		for (int i=0; i<10; i++)
 		{
 			number = input.nextDouble();
 			total += number; 
